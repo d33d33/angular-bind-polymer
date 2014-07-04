@@ -1,6 +1,6 @@
 /**
  * Copyright (c) 2014 d33d33. All rights reserved.
- * This code may only be used under the MIT style license found at http://opensource.org/licenses/MIT
+ * This code may only be used under the MIT style license found at https://raw.github.com/D33D33/angular-bind-polymer/master/LICENSE
 **/
 
 angular.module( 'd33d33.bindPolymer', [] ).
